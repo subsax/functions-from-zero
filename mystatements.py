@@ -7,3 +7,6 @@ for item in my_list:
 #print the values of dictonaries
 for _,values in my_dict.items():
     print(f"the values of my dictonary: {values}")
+
+
+#my_dict=my_dict
